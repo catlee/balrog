@@ -47,6 +47,7 @@ tasks:
           - push
         branches:
           - master
+          - dockerflow-endpoints
     metadata:
       name: Balrog Docker Image Creation
       description: Balrog Docker Image Creation
